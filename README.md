@@ -1,3 +1,5 @@
+<img src="https://github.com/Alfonso-Gonzalez-Martinez/Alfonso-Gonzalez-Martinez/blob/main/GitHub banner.gif" alt="Profile Image" width=100%/>
+
 ## Hola! 👋 I'm Alfonso Gonzalez Martinez
 
 I'm a **Front-End Developer** working on my journey to becoming a **Full Stack Developer**. I am super excited to learn the tricks of the craft when it comes to modern, responsive, and user-friendly web applications. I have hands-on experience working with **HTML**, **CSS**, **JavaScript**, and **React**, and I'm continuously expanding my skills by diving deeper into **algorithms** and **backend development**.
