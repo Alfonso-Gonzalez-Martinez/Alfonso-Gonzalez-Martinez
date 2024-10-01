@@ -5,7 +5,7 @@ I'm a **Front-End Developer** working on my journey to becoming a **Full Stack D
 #### What I'm Working On:
 I’m currently studying **Node.js**, **Express.js**, **MySQL**, and exploring **backend architecture** through **design patterns** and **algorithms**.
 
-#### Technologies & Tools:
+### Technologies & Tools:
 Here are some of the tools and technologies I've worked with:
 
 #### Front-End:
@@ -32,9 +32,6 @@ Here are some of the tools and technologies I've worked with:
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-### Learning:
-- **Backend Development**: Node.js, Express.js, MySQL, Design Patterns
-- **Advanced Algorithms and Data Structures**
 
 ### Let's Connect:
 - [LinkedIn](www.linkedin.com/in/alfonso-gonzalez-martinez)
